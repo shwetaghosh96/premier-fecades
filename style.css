@@ -4,28 +4,28 @@
 
 @font-face {
   font-family: "Evogria";
-  src: url("../fonts/Evogria.otf") format("Opentype");
+  src: url("Evogria.otf") format("Opentype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "Evogria";
-  src: url("../fonts/Evogria\ Italic.otf") format("Opentype");
+  src: url("Evogria\ Italic.otf") format("Opentype");
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: "TTInterfaces";
-  src: url("../fonts/TTInterfaces-Medium.ttf") format("truetype");
+  src: url("TTInterfaces-Medium.ttf") format("truetype");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: "TTInterfaces";
-  src: url("../fonts/TTInterfaces-Regular.ttf") format("truetype");
+  src: url("TTInterfaces-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
