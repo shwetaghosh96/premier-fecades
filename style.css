@@ -81,9 +81,9 @@ button:focus, button:hover{ box-shadow: none !important;}
 
 .section{ position: relative; }
 
-.banner-section{ position: relative; height: 100vh;}
+.banner-section{ position: relative; height: 80vh;}
 .bnrrw{ display: flex; align-items: center;}
-.banner-content{ height: 100vh; display: grid; padding-right: 0; /* flex-direction: column; flex-wrap: wrap; align-items: center; 
+.banner-content{ height: 80vh; display: grid; padding-right: 0; /* flex-direction: column; flex-wrap: wrap; align-items: center; 
   align-content: space-between; */ padding-left: 9.4%;}
 .bannerlogo{}
 .bannertext{}
@@ -105,7 +105,7 @@ h1.bannertirle{ font-size: 117px; line-height: 100px;}
   z-index: -1;
 }
 
-.banner-imgcon{ position: relative; padding: 0; height: 100vh;}
+.banner-imgcon{ position: relative; padding: 0; height: 80vh;}
 .banrfullimg{ width: 100%; height: 100%;}
 .banrfullimg img{ width: 100%; height: 100%; object-fit: cover;}
 .shapes{ position: absolute; bottom: 0;}
@@ -113,10 +113,10 @@ h1.bannertirle{ font-size: 117px; line-height: 100px;}
 .shapes.right{ right: 0;}
 
 
-.aboutus-section .banner-imgcon{ height: 80vh; }
-.aboutcon{ height: 80vh; display: grid; padding: 80px 100px; background-color: #ecfffd;}
+.aboutus-section .banner-imgcon{  height: 75vh;}
+.aboutcon{ height: 75vh; display: grid; padding: 80px 100px; background-color: #ecfffd;}
 h2.maintitle{ font-size: 82px; line-height: 70px;}
-.aboutcon p{ max-width: 70%;}
+.aboutcon p{ max-width: 85%;}
 .shapes .banner-btn{ position: absolute; bottom: 30px; left: 50px;}
 .aboutus-section .globalbtn::after{ width: 130%; z-index: 0;}
 
@@ -134,12 +134,12 @@ h2.maintitle{ font-size: 82px; line-height: 70px;}
 .srvctext{}
 .srvctext h3{ font-size: 50px; padding: 15px;}
 .srvctext h3 i{ font-size: 30px; margin-left: 15px; font-weight: 300;}
-.servclist-col .shapes{ z-index: -1; bottom: 0;}
+.servclist-col .shapes{ z-index: -1; bottom: -30px;}
 .servclist-col .shapes img{ max-width: 90%; float: right;}
 .servclist-col .shapes.right{}
 
 
-.project-section{ padding-top: 120px; }
+.project-section{ padding-top: 150px; }
 .project-section .container-fluid{ padding-left: 60px; padding-right: 60px;}
 .projcthdr .bannertext{ text-align: center; margin-bottom: 70px; }
 .projcthdr .bannertext h1.maintitle{ font-size: 82px;}
@@ -177,11 +177,11 @@ h2.maintitle{ font-size: 82px; line-height: 70px;}
 .ftritm{}
 .ftritm h4{ color: #000000; font-size: 22px; margin-bottom: 20px;}
 .ftr-conctinfo{}
-.ftr-conctinfo p{ color: #4e7571;}
-.ftr-conctinfo p.phnumr{ font-size: 30px;}
-.ftr-conctinfo p.email{ font-size: 22px;}
+.ftr-conctinfo p{ font-family: "Evogria"; color: #4e7571;}
+.ftr-conctinfo p.phnumr{ font-size: 24px; font-weight: 500; margin-bottom: 5px;}
+.ftr-conctinfo p.email{ font-size: 19px;  font-weight: 500;}
 .ftr-adrs{}
-.ftr-adrs p{ color: #7f8ca6; font-size: 20px;}
+.ftr-adrs p{ color: #7f8ca6; font-size: 19px;}
 .ftrscl{}
 .ftrscl p{ margin-bottom: 10px;}
 
