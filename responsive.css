@@ -29,7 +29,9 @@
 
 
 @media (min-width: 1480px) and (max-width: 1600px) {
-	
+	.banner-section{ height: 100vh;}
+	.banner-content{ height: 100vh; }
+	.banner-imgcon{ height: 100vh;}
 	h1.maintitle{ font-size: 100px; line-height: 90px;}
 	.srvctext h3{ font-size: 40px; }
 	.prjcttext h3 { font-size: 60px; }
