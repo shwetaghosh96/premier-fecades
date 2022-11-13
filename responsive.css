@@ -28,10 +28,12 @@
 }
 
 
-@media (min-width: 1480px) and (max-width: 1600px) {
+@media (min-width: 1440px) and (max-width: 1600px) {
 	.banner-section{ height: 100vh;}
 	.banner-content{ height: 100vh; }
-	.banner-imgcon{ height: 100vh;}
+	.banner-imgcon{ height: 100vh;} 
+	.aboutus-section .banner-imgcon{  height: 95vh;}
+.aboutcon{ height: 95vh; }
 	h1.maintitle{ font-size: 100px; line-height: 90px;}
 	.srvctext h3{ font-size: 40px; }
 	.prjcttext h3 { font-size: 60px; }
@@ -47,16 +49,14 @@
 }
 
 
-@media (max-width: 1450px){
+@media (max-width: 1439px){
 	.container{
 		max-width: 1280px;
 		width: 100%;
 	}
 
-	.banner-section{ height: 80vh;}
-	.banner-imgcon{ height: 80vh;}
-	.banner-content{ height: 80vh; } 
-	.aboutcon{ height: 80vh; }
+	
+.aboutcon{ height: 90vh; }
 	h1.bannertirle{ font-size: 105px; line-height: 100px;}
 	h2.maintitle{ font-size: 70px; line-height: 65px;}
 	.srvctext h3{ font-size: 40px; }
@@ -112,6 +112,7 @@
 		.srvcimg{ height: 230px;}
 		.srvctext h3{ font-size: 30px; }
 		.servclist-col .shapes.right{ max-width: 70%; }
+		.servcslist{ padding-right: 0px;}
 
 		.project-section .container-fluid{ padding-left: 30px; padding-right: 30px;}
 		.prjcttext h3{ font-size: 36px; }
