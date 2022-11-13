@@ -33,7 +33,7 @@
 	h1.maintitle{ font-size: 100px; line-height: 90px;}
 	.srvctext h3{ font-size: 40px; }
 	.prjcttext h3 { font-size: 60px; }
-
+.aboutcon p{ max-width: 100%;}
 	.footer .shapes { max-width: 85%;}
 	.footer .shapes img{ width: 100%;}
 	.ftritm h4{ font-size: 17px;}
