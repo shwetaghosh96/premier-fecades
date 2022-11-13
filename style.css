@@ -113,8 +113,8 @@ h1.bannertirle{ font-size: 117px; line-height: 100px;}
 .shapes.right{ right: 0;}
 
 
-
-.aboutcon{ height: 100vh; display: grid; padding: 80px 100px; background-color: #ecfffd;}
+.aboutus-section .banner-imgcon{ height: 80vh; }
+.aboutcon{ height: 80vh; display: grid; padding: 80px 100px; background-color: #ecfffd;}
 h2.maintitle{ font-size: 82px; line-height: 70px;}
 .aboutcon p{ max-width: 70%;}
 .shapes .banner-btn{ position: absolute; bottom: 30px; left: 50px;}
