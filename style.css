@@ -127,6 +127,7 @@ h2.maintitle{ font-size: 82px; line-height: 70px;}
 .servicecon p{ max-width: 100%;}
 .servicecon .globalbtn{ margin-top: 50px;}
 .servclist-col{ padding-left: 5%;}
+.servcslist{ padding-right: 15px;}
 .serviceitem{ background-color: #fff; box-shadow: -5px 7px 10px 10px  #3b4e5c59;}
 .srvcimg{ width: 100%; height: 235px;}
 .srvcimg img{ width: 100%; height: 100%; object-fit: cover; 
